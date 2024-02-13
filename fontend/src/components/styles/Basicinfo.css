@@ -1,0 +1,72 @@
+.basic-box{
+    min-height: 450px;
+    width: 100%;
+    box-shadow: inset 0 0 20px #060c40;
+    background: white;
+}
+
+.basic-user{
+    font-size: 140px;
+    color: #717173;
+}
+
+.box-padding{
+    padding: 70px;
+}
+.input-basic{
+    height: 60px;
+}
+.tophed {
+    margin-top: 70px;
+}
+
+@media only screen and (max-width: 600px) {
+    .tophed{
+        margin-top: -46px;
+    }
+  }
+
+
+
+  .f-size{
+    font-family: sofia;
+    font-size: 20px;
+  }
+
+  .basic-button-add{
+    height: 40px;
+    width: 150px;
+    border:1px solid blue;
+    font-family: sofia;
+    border-radius: 10px;
+ }
+
+ .basic-button-ad{
+    height: 40px;
+    width: 100px;
+    border:1px solid blue;
+    font-family: sofia;
+    border-radius: 10px;
+ }
+
+ .basic-button-blue{
+    height: 50px;
+    width: 100px;
+    border: none;
+    background: blue;
+    color: white;
+    font-family: sofia;
+ }
+
+ .basic-button{
+    height: 50px;
+    width: 100px;
+    border:1px solid blue;
+    font-family: sofia;
+ }
+
+ .red-button {
+   border:1px solid red;
+    color: red; 
+   
+  }

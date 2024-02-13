@@ -1,0 +1,51 @@
+
+.m-box{
+    min-height: 680px;
+    border: 1px solid white;
+}
+
+.template-1{
+    background: url(https://marketplace.canva.com/EAFRuCp3DcY/1/0/1131w/canva-black-white-minimalist-cv-resume-f5JNR-K5jjw.jpg);
+    background-size:100% 100% ;
+    height: 600px;
+    margin-top: 20px;
+}
+.template-rgba-1{
+    height: 600px;  
+}
+
+.button-select{
+    height: 40px;
+    width: 100px;
+    border: none;
+    background-color: blue;
+    color:white;
+    font-family: sofia;
+    margin-top: 280px;
+    border-radius: 10px;
+    opacity: 0;
+}
+
+.template-rgba-1:hover{
+    background:rgba(97, 95, 103, 0.7) ;  
+}
+
+.template-rgba-1:hover .button-select{
+    opacity: 1; 
+} 
+
+
+.template-2{
+    background: url(https://marketplace.canva.com/EAFBL8KRmSA/1/0/1131w/canva-white-simple-student-cv-resume-NXs7xSf0K8I.jpg);
+    background-size:100% 100% ;
+    height: 600px;
+    margin-top: 20px;
+}
+
+.template-3{
+    background: url(https://cdn.enhancv.com/single_column_resume_template_1_c1e24e6e04.png  );
+    background-size:100% 100% ;
+    height: 600px;
+    margin-top: 20px;
+}
+

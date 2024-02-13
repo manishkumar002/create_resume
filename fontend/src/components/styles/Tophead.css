@@ -1,0 +1,13 @@
+.info-button{
+    height: 40px;
+    width: 40px;
+    background: red;
+    color: white;
+    border-radius: 50%;
+    line-height: 30px;
+    font-size: 15px;
+}
+
+.linklinenone{
+    text-decoration: none;
+}

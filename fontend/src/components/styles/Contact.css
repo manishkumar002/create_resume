@@ -1,0 +1,33 @@
+.contactbox{
+    min-height: 600px;
+    width: 900px;
+    box-shadow: inset 0 0 20px #060c40;
+    background: white;
+    margin: 30px auto;
+}
+
+.input-height{
+    height: 50px;
+   
+}
+.b-color{
+    font-family: sofia;
+    font-size: 25px;
+    color:'black'
+}
+
+.contact-button{
+    height: 50px;
+    width: 150px;
+    background:#060c40 ;
+    float: right;
+    margin-top: 50px;
+    color: white;
+    line-height: 5px;
+}
+
+.contact-button:hover{
+    background:red;
+    color:#060c40 ; 
+    border: none;  
+}

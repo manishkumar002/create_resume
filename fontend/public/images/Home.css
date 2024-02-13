@@ -1,0 +1,25 @@
+.hom
+{
+    height: 300px;
+    width: 400px;
+    float: left;
+  margin-left: 60px;
+}
+.h{
+  height: 500px;
+  width:700px;
+}
+.n{
+  height: 200px;
+  width: 200px;
+  float: left;
+  border-radius: 100px;
+  margin: 20px;
+
+}
+.m{
+  height: 500px;
+  width: 650px;
+  margin: 20px;
+
+}
